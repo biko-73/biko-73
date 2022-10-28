@@ -3,7 +3,8 @@
 <!--
 **biko-73/biko-73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Metrics](https://metrics.lecoq.io/biko-73)
+![Metrics](https://metrics.lecoq.io/biko-73?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Africa%2FCairo)
+
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=57875905)
 
