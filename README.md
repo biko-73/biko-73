@@ -6,8 +6,6 @@
 - name: Metrics embed
   uses: lowlighter/metrics@v3.28
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
