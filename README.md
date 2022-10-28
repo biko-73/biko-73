@@ -3,7 +3,7 @@
 <!--
 **biko-73/biko-73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![visitors](https://page-views.glitch.me/badge?page_id=57875905)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=57875905)
 
 - name: Metrics embed
   uses: lowlighter/metrics@v3.28
