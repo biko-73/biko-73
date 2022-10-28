@@ -3,6 +3,14 @@
 <!--
 **biko-73/biko-73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+name: Repositories traffic
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.traffic.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: repositories
+  plugin_traffic: yes
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
