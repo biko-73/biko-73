@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biko-73&show_icons=true&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=biko-73&theme=prussian&background=374159&dates=C7D1E3&currStreakNum=0074FF&sideLabels=84ADC4)
+
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=biko-73&theme=react)
